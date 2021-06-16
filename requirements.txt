@@ -15,5 +15,5 @@ tox==3.13.2
 coverage==4.5.3
 Sphinx==2.1.2
 sphinxcontrib.fulltoc==1.2.0
-sphinx-click==2.2.0
+sphinx-click==3.0.1
 twine==1.13.0
