@@ -8,7 +8,7 @@ codecov==2.0.15
 black==19.3b0
 matplotlib==3.1.1
 numpy==1.16.4
-pypandoc==1.4
+pypandoc==1.6.3
 bumpversion==0.5.3
 wheel==0.33.4
 tox==3.13.2
