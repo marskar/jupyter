@@ -13,7 +13,7 @@ bumpversion==0.5.3
 wheel==0.33.4
 tox==3.13.2
 coverage==4.5.3
-Sphinx==2.1.2
+Sphinx==4.1.1
 sphinxcontrib.fulltoc==1.2.0
 sphinx-click==2.2.0
 twine==1.13.0
