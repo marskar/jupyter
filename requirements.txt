@@ -5,7 +5,7 @@ pytest-mypy==0.3.3
 pytest==5.0.1
 pytest-cov==2.7.1
 codecov==2.0.15
-black==19.3b0
+black==21.7b0
 matplotlib==3.1.1
 numpy==1.16.4
 pypandoc==1.4
